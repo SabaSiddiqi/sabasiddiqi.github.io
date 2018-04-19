@@ -2,13 +2,13 @@
   {
     "text": "Tutorials",
     "url": "",
-    "icon": "",
+    "icon": "fa-home",
     "layout": "",
     "target": ""
   },
   {
     "text": "Home",
-    "url": "/",
+    "url": "/home/",
     "icon": "fa-home",
     "layout": "post"
   },
