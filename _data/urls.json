@@ -1,5 +1,12 @@
 [
   {
+    "text": "Tutorials",
+    "url": "",
+    "icon": "",
+    "layout": "",
+    "target": ""
+  },
+  {
     "text": "Home",
     "url": "/",
     "icon": "fa-home",
