@@ -30,6 +30,7 @@
   {
     "text": "Github",
     "url": "/github.com/SabaSiddiqi/",
-    "icon": "fa-github"
+    "icon": "fa-github",
+    "layout": "project"
   }
 ]
