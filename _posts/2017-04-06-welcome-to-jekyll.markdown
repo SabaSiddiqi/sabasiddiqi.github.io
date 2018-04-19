@@ -1,5 +1,5 @@
 ---
-layout: dataanalysis
+layout: data
 title: Post1
 date: 2017-04-06 10:32:20 +0000
 description: The post discusses something !
