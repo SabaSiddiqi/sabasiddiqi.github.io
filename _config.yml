@@ -5,7 +5,7 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/SabaSiddiqi
 about: Engineer
 
-baseurl: ""
+baseurl: "https://sabasiddiqi.github.io"
 url: "https://sabasiddiqi.github.io"
 
 allowsearch: true
