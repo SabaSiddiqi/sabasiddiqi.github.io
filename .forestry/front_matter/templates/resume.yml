@@ -5,3 +5,4 @@ fields:
 - type: file
   hidden: true
   default: "/uploads/2018/05/16/saba_resume_v2.pdf"
+- type: text
