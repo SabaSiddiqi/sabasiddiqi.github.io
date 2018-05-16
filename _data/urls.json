@@ -24,9 +24,8 @@
   },
   {
     "text": "Resume",
-    "url": "/resume",
-    "icon": "fa-graduation-cap",
-    "layout": "resume"
+    "url": "/saba_resume_v2.pdf",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Github",
